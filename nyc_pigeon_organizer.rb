@@ -1,3 +1,5 @@
+#I watched the included video and coded along
+
 require 'pry'
 def nyc_pigeon_organizer(data)
   # write your code here!
